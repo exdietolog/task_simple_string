@@ -131,7 +131,7 @@
     <ClCompile Include="task_simple_string.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\bmstu_cpp_course\tasks\bmstu_string\task_simple_string\bmstu_string.h" />
+    <ClInclude Include="bmstu_string.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

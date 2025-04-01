@@ -23,8 +23,8 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\bmstu_cpp_course\tasks\bmstu_string\task_simple_string\bmstu_string.h">
-      <Filter>Файлы заголовков</Filter>
+    <ClInclude Include="bmstu_string.h">
+      <Filter>Исходные файлы</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
